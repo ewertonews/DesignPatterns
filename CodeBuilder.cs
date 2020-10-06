@@ -44,10 +44,6 @@ namespace DesignPatterns
             _class.ClassName = className;
         }
 
-        public CodeBuilder()
-        {
-        }
-
         public CodeBuilder AddField(string name, string type)
         {
             _class.Fields.Add(new FieldElement
