@@ -1,8 +1,5 @@
 ﻿using DesignPatterns.FactoryPattern.WithoutPattern;
 using System;
-using System.Collections.Generic;
-using System.Text;
-
 namespace DesignPatterns.FactoryPattern.WithPattern
 {
     class ClientPattern
